@@ -32,7 +32,6 @@
 <br/>
 <br/>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=lvarnavas&fontSize=70)
       
 [business-website]: https://appload.gr
 [personal-website]: https://lvarnavas.com      
