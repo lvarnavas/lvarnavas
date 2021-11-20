@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=lvarnavas&fontSize=70" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=lvarnavas&fontSize=70" /> -->
 ![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
 
 
