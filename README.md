@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=lvarnavas&animation=fadeInfontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=lvarnavas&animation=scaleIn=70" />
 
 
 <h2 align="center"> Meng in Electrical and Computer Engineering | Web Developer | Freelancer</h2> 
