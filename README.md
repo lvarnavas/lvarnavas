@@ -10,8 +10,8 @@
 <br/>
 
 ### Connect with me:
-Personal website: [<img align="left" alt="personal-website" width="22px" src="https://www.svgrepo.com/show/40309/earth-globe.svg"/>][personal-website]
-Business website: [<img align="left" alt="business-website" width="22px" src="https://appload.gr/wp-content/uploads/2021/08/Favicon_3x-120x120.png"/>][business-website]
+[<img align="left" alt="personal-website" width="22px" src="https://www.svgrepo.com/show/40309/earth-globe.svg"/>][personal-website]
+[<img align="left" alt="business-website" width="22px" src="https://appload.gr/wp-content/uploads/2021/08/Favicon_3x-120x120.png"/>][business-website]
 [<img align="left" alt="facebook" width="22px" src="https://www.svgrepo.com/show/138943/facebook.svg"/>][facebook]
 [<img align="left" alt="instagram" width="22px" src="https://www.svgrepo.com/show/157806/instagram.svg"/>][instagram]
 [<img align="left" alt="linkedin" width="22px" src="https://www.svgrepo.com/show/138936/linkedin.svg"/>][linkedin]
@@ -19,7 +19,6 @@ Business website: [<img align="left" alt="business-website" width="22px" src="ht
 <br/>
 
 ### Languages, Skills and Tools:
-
 <img align="left" alt="html" width="26px" src="https://www.svgrepo.com/show/353884/html-5.svg" />
 <img align="left" alt="css" width="26px" src="https://www.svgrepo.com/show/349330/css3.svg" />
 <img align="left" alt="js" width="26px" src="https://www.svgrepo.com/show/349419/javascript.svg" />
