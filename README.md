@@ -14,9 +14,13 @@
 ### Connect with me:
 [<img align="left" alt="lvarnavas" width="22px" src="https://www.svgrepo.com/show/40309/earth-globe.svg"/>][personal-website]
 [<img align="left" alt="lvarnavas" width="22px" src="https://appload.gr/wp-content/uploads/2021/08/Favicon_3x-120x120.png"/>][business-website]
-
-      
+[<img align="left" alt="lvarnavas" width="22px" src="https://www.svgrepo.com/show/138943/facebook.svg"/>][facebook]
+[<img align="left" alt="lvarnavas" width="22px" src="https://www.svgrepo.com/show/157806/instagram.svg"/>][instagram]
+[<img align="left" alt="lvarnavas" width="22px" src="https://www.svgrepo.com/show/138936/linkedin.svg"/>][linkedin]
 
       
 [business-website]: https://appload.gr
 [personal-website]: https://lvarnavas.com      
+[facebook]: https://facebook.com/lampros.varnavas
+[instagram]: https://instagram.com/lvarnavas
+[linked]: https://www.linkedin.com/in/lampros-varnavas-341a68223
