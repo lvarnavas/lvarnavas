@@ -5,18 +5,26 @@
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for job (part/full time)
 - 💬 Ask me about anything
-- 📫 How to reach me: https://lvarnavas.com - https://appload.gr - https://www.linkedin.com/in/lampros-varnavas-341a68223
 - 😄 Pronouns: He/Him/Bro/Colleague
 
 
-
-
 ### Connect with me:
-[<img align="left" alt="lvarnavas" width="22px" src="https://www.svgrepo.com/show/40309/earth-globe.svg"/>][personal-website]
-[<img align="left" alt="lvarnavas" width="22px" src="https://appload.gr/wp-content/uploads/2021/08/Favicon_3x-120x120.png"/>][business-website]
-[<img align="left" alt="lvarnavas" width="22px" src="https://www.svgrepo.com/show/138943/facebook.svg"/>][facebook]
-[<img align="left" alt="lvarnavas" width="22px" src="https://www.svgrepo.com/show/157806/instagram.svg"/>][instagram]
-[<img align="left" alt="lvarnavas" width="22px" src="https://www.svgrepo.com/show/138936/linkedin.svg"/>][linkedin]
+[<img align="left" alt="personal-website" width="22px" src="https://www.svgrepo.com/show/40309/earth-globe.svg"/>][personal-website]
+[<img align="left" alt="business-website" width="22px" src="https://appload.gr/wp-content/uploads/2021/08/Favicon_3x-120x120.png"/>][business-website]
+[<img align="left" alt="facebook" width="22px" src="https://www.svgrepo.com/show/138943/facebook.svg"/>][facebook]
+[<img align="left" alt="instagram" width="22px" src="https://www.svgrepo.com/show/157806/instagram.svg"/>][instagram]
+[<img align="left" alt="linkedin" width="22px" src="https://www.svgrepo.com/show/138936/linkedin.svg"/>][linkedin]
+
+### Languages, Skills and Tools:
+
+[<img align="left" alt="js" width="22px" src="https://www.svgrepo.com/show/353884/html-5.svg"/>]
+[<img align="left" alt="js" width="22px" src="https://www.svgrepo.com/show/349330/css3.svg"/>]
+[<img align="left" alt="js" width="22px" src="https://www.svgrepo.com/show/349419/javascript.svg"/>]
+[<img align="left" alt="js" width="22px" src="https://www.svgrepo.com/show/354259/react.svg"/>]
+[<img align="left" alt="js" width="22px" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg"/>]
+[<img align="left" alt="js" width="22px" src="https://www.svgrepo.com/show/341068/sql.svg"/>]
+[<img align="left" alt="js" width="22px" src="https://www.svgrepo.com/show/349568/wordpress.svg/>]
+[<img align="left" alt="js" width="22px" src="https://www.svgrepo.com/show/354004/linux-tux.svg/>]
 
       
 [business-website]: https://appload.gr
