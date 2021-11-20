@@ -19,7 +19,7 @@
 <br/>
 
 ### Languages, Skills and Tools:
-
+[<img align="left" alt="html" width="22px" src="https://www.svgrepo.com/show/353884/html-5.svg" />]
 
 <br/>
 <br/>
