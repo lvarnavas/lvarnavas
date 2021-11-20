@@ -7,7 +7,7 @@
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him/Bro/Colleague
 
-<br>
+<br/>
 
 ### Connect with me:
 [<img align="left" alt="personal-website" width="22px" src="https://www.svgrepo.com/show/40309/earth-globe.svg"/>][personal-website]
