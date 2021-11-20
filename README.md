@@ -32,7 +32,7 @@
 
 <br/>
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=lvarnavas&fontSize=70" />
+![footer](https://capsule-render.vercel.app/api?section=footer)
       
 [business-website]: https://appload.gr
 [personal-website]: https://lvarnavas.com      
