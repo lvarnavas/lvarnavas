@@ -1,6 +1,5 @@
 <h2 align="center"> Meng in Electrical and Computer Engineering | Web Developer | Freelancer</h2> 
-<p align="center"> 
-- 🔭 I’m currently working as a freelance web developer and I'm co-founder of a small web development and digital marketing company -[appload][business-website]- </p>
+<p align="center"> - 🔭 I’m currently working as a freelance web developer and I'm co-founder of a small web development and digital marketing company -[appload][business-website]- </p>
 <p align="center">- 🌱 I’m currently learning Spanish </p>
 <p align="center">- 👯 I’m looking to collaborate with other developers </p>
 <p align="center">- 🤔 I’m looking for job (part/full time) </p>
