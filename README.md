@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=lvarnavas&fontSize=70" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=lvarnavas&fontSize=70" /> -->
 ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 
 
