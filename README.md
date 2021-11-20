@@ -1,4 +1,4 @@
-## Meng in Electrical and Computer Engineering | Web Developer | Freelancer
+<h1 align="center"> Meng in Electrical and Computer Engineering | Web Developer | Freelancer</h1> Meng in Electrical and Computer Engineering | Web Developer | Freelancer
 
 - 🔭 I’m currently working as a freelance web developer and I'm co-founder of a small web development and digital marketing company -[appload][business-website]-
 - 🌱 I’m currently learning Spanish
