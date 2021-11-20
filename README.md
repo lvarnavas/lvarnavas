@@ -7,6 +7,7 @@
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him/Bro/Colleague
 
+<br>
 
 ### Connect with me:
 [<img align="left" alt="personal-website" width="22px" src="https://www.svgrepo.com/show/40309/earth-globe.svg"/>][personal-website]
@@ -15,6 +16,7 @@
 [<img align="left" alt="instagram" width="22px" src="https://www.svgrepo.com/show/157806/instagram.svg"/>][instagram]
 [<img align="left" alt="linkedin" width="22px" src="https://www.svgrepo.com/show/138936/linkedin.svg"/>][linkedin]
 
+<br>
 ### Languages, Skills and Tools:
 
 [<img align="left" alt="js" width="22px" src="https://www.svgrepo.com/show/353884/html-5.svg"/>]
