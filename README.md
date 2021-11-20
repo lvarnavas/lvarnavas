@@ -23,4 +23,4 @@
 [personal-website]: https://lvarnavas.com      
 [facebook]: https://facebook.com/lampros.varnavas
 [instagram]: https://instagram.com/lvarnavas
-[linked]: https://www.linkedin.com/in/lampros-varnavas-341a68223
+[linkedin]: https://www.linkedin.com/in/lampros-varnavas-341a68223
