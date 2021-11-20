@@ -1,7 +1,5 @@
-### Hello world👋 
-
-
 ## I come from Greece and I was born in 1994.
+
 - 🔭 I’m currently working as a freelance web developer and I'm co-founder of a small web developemnt and digital marketing company [appload][website]
 - 🌱 I’m currently learning Spanish
 - 👯 I’m looking to collaborate with other developers
