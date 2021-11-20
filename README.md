@@ -13,7 +13,7 @@
 
 ### Connect with me:
 [<img align="left" alt="lvarnavas" width="22px" src="https://www.svgrepo.com/show/40309/earth-globe.svg"/>][personal-website]
-[<img align="left" alt="lvarnavas" width="22px" src="https://www.svgrepo.com/show/107601/globe.svg"/>][business-website]
+[<img align="left" alt="lvarnavas" width="22px" src="https://appload.gr/wp-content/uploads/2021/08/Favicon_3x-120x120.png"/>][business-website]
 
       
 
