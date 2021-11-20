@@ -1,12 +1,12 @@
-<h1 align="center"> Meng in Electrical and Computer Engineering | Web Developer | Freelancer</h1> Meng in Electrical and Computer Engineering | Web Developer | Freelancer
-
+<h2 align="center"> Meng in Electrical and Computer Engineering | Web Developer | Freelancer</h2> 
+<p align="center"> 
 - 🔭 I’m currently working as a freelance web developer and I'm co-founder of a small web development and digital marketing company -[appload][business-website]-
 - 🌱 I’m currently learning Spanish
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for job (part/full time)
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him/Bro/Colleague
-
+</p>
 <br/>
 
 ### Connect with me:
