@@ -32,7 +32,6 @@
 
 <br/>
 <br/>
-![footer](https://capsule-render.vercel.app/api?section=footer)
       
 [business-website]: https://appload.gr
 [personal-website]: https://lvarnavas.com      
@@ -40,3 +39,4 @@
 [instagram]: https://instagram.com/lvarnavas
 [linkedin]: https://www.linkedin.com/in/lampros-varnavas-341a68223
 
+![footer](https://capsule-render.vercel.app/api?section=footer)
