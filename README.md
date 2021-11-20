@@ -12,7 +12,7 @@
 
 
 ### Connect with me:
-[<img align="left" alt="lvarnavas" width="22px" src="https://cdn4.iconfinder.com/data/icons/software-line/32/software-line-02-512.png"/>[personal-website]
+[<img align="left" alt="lvarnavas" width="22px" src="https://cdn4.iconfinder.com/data/icons/software-line/32/software-line-02-512.png"/>][personal-website]
 
       
 
