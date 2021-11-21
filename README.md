@@ -28,8 +28,8 @@
 <img align="left" alt="react" width="26px" src="https://www.svgrepo.com/show/354259/react.svg" />
 <img align="left" alt="node" width="26px" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" />
 <img align="left" alt="sql" width="26px" src="https://www.svgrepo.com/show/341068/sql.svg" />
-<img align="left" alt="wordpress" width="26px" src="https://www.svgrepo.com/show/349568/wordpress.svg />
-<img align="left" alt="linux" width="26px" src="https://www.svgrepo.com/show/354004/linux-tux.svg />
+<img align="left" alt="wordpress" width="26px" src="https://www.svgrepo.com/show/349568/wordpress.svg" />
+<img align="left" alt="linux" width="26px" src="https://www.svgrepo.com/show/354004/linux-tux.svg" />
 
 <br/>
 <br/>
