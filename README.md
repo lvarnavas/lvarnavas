@@ -3,10 +3,10 @@
 
 <h2 align="center"> Meng in Electrical and Computer Engineering | Web Developer | Freelancer</h2> 
 
-- 🔭 I’m currently working as a freelance web developer and I'm co-founder of a small web development and digital marketing company -[appload][business-website]-
+- 🔭 I’m currently working as a Webmaster at the European Parliament and also as a freelance web developer
 - 🌱 I’m currently learning Spanish 
 - 👯 I’m looking to collaborate with other developers 
-- 🤔 I’m looking for job (part/full time) 
+- 🤔 I’m looking for job in Belgium
 - 💬 Ask me about anything 
 - 😄 Pronouns: He/Him/Bro/Colleague 
 
