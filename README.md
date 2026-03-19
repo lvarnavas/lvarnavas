@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=lvarnavas&animation=twinkling&fontSize=70" />
 
 
-<h2 align="center"> Meng in Electrical and Computer Engineering | Web Developer | Freelancer</h2> 
+<h2 align="center"> Meng in Electrical and Computer Engineering | Web Developer </h2> 
 
 - 🔭 I’m currently working as a Software Engineer at ING Belgium
 - 👯 I’m looking to collaborate with other developers 
-- 💬 Ask me about anything 
+- 💬 Let's chat
 
 <br/>
 
