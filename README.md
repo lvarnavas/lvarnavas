@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=LamprosVarnavas&animation=twinkling&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Lampros%20Varnavas&animation=twinkling&fontSize=70" />
 
 
 <h2 align="center"> Meng in Electrical and Computer Engineering | Software Engineer </h2> 
