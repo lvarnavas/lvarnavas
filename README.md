@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=lvarnavas&animation=twinkling&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Lampros Varnavas&animation=twinkling&fontSize=70" />
 
 
-<h2 align="center"> Meng in Electrical and Computer Engineering | Web Developer </h2> 
+<h2 align="center"> Meng in Electrical and Computer Engineering | Software Engineer </h2> 
 
 - 🔭 I’m currently working as a Software Engineer at ING Belgium
 - 👯 I’m looking to collaborate with other developers 
@@ -31,8 +31,7 @@
 <br/>
 <br/>
       
-[business-website]: https://appload.gr
-[personal-website]: https://lvarnavas.com      
+[business-website]: https://appload.gr  
 [facebook]: https://facebook.com/lampros.varnavas
 [instagram]: https://instagram.com/lvarnavas
 [linkedin]: https://www.linkedin.com/in/lvarnavas
