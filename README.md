@@ -10,7 +10,6 @@
 <br/>
 
 ### Connect with me:
-[<img align="left" alt="personal-website" width="26px" src="https://www.svgrepo.com/show/40309/earth-globe.svg"/>][personal-website]
 [<img align="left" alt="business-website" width="26px" src="https://www.svgrepo.com/show/40309/earth-globe.svg"/>][business-website]
 [<img align="left" alt="facebook" width="26px" src="https://www.svgrepo.com/show/138943/facebook.svg"/>][facebook]
 [<img align="left" alt="instagram" width="26px" src="https://www.svgrepo.com/show/157806/instagram.svg"/>][instagram]
